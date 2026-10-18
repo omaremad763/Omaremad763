@@ -1,4 +1,8 @@
-# Hi there 👋 I'm Omar Emad Abusaif
+<h1>
+  Hi there
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1faf5.svg" width="30" />
+  I'm Omar Emad Abusaif
+</h1>
 
 ### Software Engineer | Full-Stack Dev 
 
