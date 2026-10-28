@@ -1,15 +1,14 @@
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFF00&center=false&vCenter=true&width=500&lines=Building+Scalable+Distributed+Systems;Clean+Architecture+%26+CQRS+Enthusiast;Full-Stack+Expert" alt="Typing SVG" />
+  </a>
+</p>
 <h1>
   Hi there
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1faf5.svg" width="30" />
   I'm Omar Emad Abusaif
 </h1>
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFF00&center=false&vCenter=true&width=500&lines=Building+Scalable+Distributed+Systems;Clean+Architecture+%26+CQRS+Enthusiast;Full-Stack+.NET+%26+Angular+Expert" alt="Typing SVG" />
-  </a>
-</p>
-
-### Software Engineer | Full-Stack Dev 
+ Software Engineer | Full-Stack Dev 
 
 I focus on building robust, scalable, and production-grade systems. I enjoy understanding **how software evolves** end-to-end, writing clean code, and applying modern architectural practices.
 
