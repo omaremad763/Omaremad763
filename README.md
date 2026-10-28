@@ -3,6 +3,11 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1faf5.svg" width="30" />
   I'm Omar Emad Abusaif
 </h1>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFF00&center=false&vCenter=true&width=500&lines=Building+Scalable+Distributed+Systems;Clean+Architecture+%26+CQRS+Enthusiast;Full-Stack+.NET+%26+Angular+Expert" alt="Typing SVG" />
+  </a>
+</p>
 
 ### Software Engineer | Full-Stack Dev 
 
@@ -53,8 +58,6 @@ A production-grade, full-stack inventory management system designed to implement
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48"/>
 </p>
 
----
-
 ## 📚 Engineering Reading Journey
 
 ### 🚧Reading Queue
@@ -97,4 +100,4 @@ A production-grade, full-stack inventory management system designed to implement
 > *"I don't build projects to collect technologies. I build systems to master how software evolves and scales."*
 
 ---
-<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories.</p>
+<p align="center">⭐Feel free to explore my repositories.</p>
